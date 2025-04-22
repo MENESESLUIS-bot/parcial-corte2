@@ -1,0 +1,31 @@
+/* For information on how to create your own theme, please see:
+http://ionicframework.com/docs/theming/ */
+
+.fecha-hora-container, .datos-cliente-container, .seleccion-mesa-container {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    border-radius: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* Slightly darker shadow for better contrast */
+    background-color: #ffffff; /* Add a white background for better readability */
+}
+
+.fecha-input, .hora-input, .cliente-input, .mesa-select {
+    display: block;
+    margin-bottom: 0.75rem; /* Slightly increased spacing for better layout */
+    padding: 0.5rem;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9; /* Light gray background for inputs */
+    color: #000000; /* Darker text for better readability */
+}
+
+body {
+    background-color: #121212; /* Darker black for modern dark theme */
+    color: #000000; /* Softer white for less strain on the eyes */
+    font-family: Arial, sans-serif; /* Add a default font for consistency */
+    line-height: 1.6; /* Improve readability with better line spacing */
+}
+
+h1 {
+    color: #ffffff; /* Set header text color to black */
+}

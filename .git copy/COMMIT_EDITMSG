@@ -1,0 +1,50 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .browserslistrc
+#	new file:   .gitignore
+#	new file:   .vscode/extensions.json
+#	new file:   cypress.config.ts
+#	new file:   cypress/e2e/test.cy.ts
+#	new file:   cypress/fixtures/example.json
+#	new file:   cypress/support/commands.ts
+#	new file:   cypress/support/e2e.ts
+#	new file:   eslint.config.js
+#	new file:   index.html
+#	new file:   ionic.config.json
+#	new file:   package-lock.json
+#	new file:   package.json
+#	new file:   public/favicon.png
+#	new file:   public/manifest.json
+#	new file:   src/App.test.tsx
+#	new file:   src/App.tsx
+#	new file:   src/components/ExploreContainer.css
+#	new file:   src/components/ExploreContainer.tsx
+#	new file:   src/main.tsx
+#	new file:   src/pages/Home.css
+#	new file:   src/pages/Home.tsx
+#	new file:   src/setupTests.ts
+#	new file:   src/theme/variables.css
+#	new file:   src/vite-env.d.ts
+#	new file:   tsconfig.json
+#	new file:   tsconfig.node.json
+#	new file:   vite.config.ts
+#
+# Changes not staged for commit:
+#	modified:   src/App.tsx
+#
+# Untracked files:
+#	src/components/FacturaComponente.css
+#	src/components/FacturaComponente.tsx
+#	src/components/ProductoComponente.css
+#	src/components/ProductoComponente.tsx
+#	src/components/TipoDeComponente.css
+#	src/components/TipoDePagoComponente.tsx
+#	src/pages/PantallaPrincipal.tsx
+#
